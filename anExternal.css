@@ -1,0 +1,7 @@
+.external img {
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    float: right;
+    border-radius: 20px;
+}
